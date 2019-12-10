@@ -46,7 +46,7 @@ https://ipioo.github.io/vendor/Layer/layer.js
 https://ipioo.github.io/vendor/Layer/mobile/layer.js
 ```
 
-#Layui
+# Layui
 
 ```html
 https://ipioo.github.io/vendor/Layui/layui.js
