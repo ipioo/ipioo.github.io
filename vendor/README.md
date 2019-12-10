@@ -16,7 +16,6 @@ https://ipioo.github.io/vendor/Bootstrap3/css/bootstrap.min.css
 https://ipioo.github.io/vendor/Bootstrap4/css/bootstrap.min.css
 ```
 
-
 #FontAwesome
 
 ```html
@@ -47,16 +46,12 @@ https://ipioo.github.io/vendor/Layer/layer.js
 https://ipioo.github.io/vendor/Layer/mobile/layer.js
 ```
 
-
-
 #Layui
 
 ```html
 https://ipioo.github.io/vendor/Layui/layui.js
 https://ipioo.github.io/vendor/Layui/layui.all.js
 ```
-
-
 
 #React
 
@@ -65,8 +60,6 @@ https://ipioo.github.io/vendor/Layui/layui.all.js
 https://ipioo.github.io/vendor/React/16.12/react/umd/react.development.js
 https://ipioo.github.io/React/16.12/react-dom/umd/react-dom.development.js
 ```
-
-
 
 #RepuireJs
 
@@ -90,11 +83,5 @@ https://ipioo.github.io/vendor/ResetCss/reset.css
 https://ipioo.github.io/vendor/Vue/2.6.1/vue.js
 ```
 
-
-#Vue
-
-```html
-https://ipioo.github.io/vendor/Vue/2.6.1/vue.js
-```
 
 
